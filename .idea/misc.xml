@@ -4,6 +4,8 @@
     <file type="web" url="file://$PROJECT_DIR$/app-customer-first" />
     <file type="web" url="file://$PROJECT_DIR$/app-server-first" />
     <file type="web" url="file://$PROJECT_DIR$/app-server-second" />
+    <file type="web" url="file://$PROJECT_DIR$/config-bus-client" />
+    <file type="web" url="file://$PROJECT_DIR$/config-bus-server" />
     <file type="web" url="file://$PROJECT_DIR$/eureka-server" />
   </component>
   <component name="JavaScriptSettings">
@@ -16,6 +18,8 @@
         <option value="$PROJECT_DIR$/app-server-first/pom.xml" />
         <option value="$PROJECT_DIR$/app-customer-first/pom.xml" />
         <option value="$PROJECT_DIR$/app-server-second/pom.xml" />
+        <option value="$PROJECT_DIR$/config-bus-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-bus-client/pom.xml" />
       </list>
     </option>
   </component>

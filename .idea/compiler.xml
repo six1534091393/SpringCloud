@@ -6,16 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-bus-server" />
         <module name="eureka-server" />
+        <module name="config-bus-client" />
+        <module name="app-customer-first" />
         <module name="app-server-second" />
         <module name="app-server-first" />
-        <module name="app-customer-first" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="app-customer-first" target="1.8" />
       <module name="app-server-first" target="1.8" />
       <module name="app-server-second" target="1.8" />
+      <module name="config-bus-client" target="1.8" />
+      <module name="config-bus-server" target="1.8" />
       <module name="eureka-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +28,8 @@
       <module name="app-customer-first" options="-parameters" />
       <module name="app-server-first" options="-parameters" />
       <module name="app-server-second" options="-parameters" />
+      <module name="config-bus-client" options="-parameters" />
+      <module name="config-bus-server" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
     </option>
   </component>
