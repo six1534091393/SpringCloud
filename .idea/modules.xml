@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-customer-first/app-customer-first.iml" filepath="$PROJECT_DIR$/app-customer-first/app-customer-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-server-first/app-server-first.iml" filepath="$PROJECT_DIR$/app-server-first/app-server-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-server-second/app-server-second.iml" filepath="$PROJECT_DIR$/app-server-second/app-server-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+    </modules>
+  </component>
+</project>

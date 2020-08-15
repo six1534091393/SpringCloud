@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="app-customer-first:war">
+    <output-path>$PROJECT_DIR$/app-customer-first/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>app-customer-first</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="app-customer-first-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="app-customer-first:war exploded" />
+    </root>
+  </artifact>
+</component>
